@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @prinz-git
-- 👀 I’m interested in Software Engineering.
-- 🌱 I’m currently learning React JS and Python.
-- 💞️ I’m looking to collaborate on begginner projects. 
+- 👀 Software Engineering, Quality Assurance.
 - 📫 How to reach me, Skype: prinz.gp
 
 <!---
