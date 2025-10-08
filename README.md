@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prinz-git
 - 👀 Software Engineering, Quality Assurance.
-- 📫 How to reach me, Skype: prinz.gp
+- 📫 How to reach me, Email: itzprinz@gmail.com
 
 <!---
 prinz-git/prinz-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
